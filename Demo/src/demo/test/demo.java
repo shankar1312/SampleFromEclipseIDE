@@ -7,6 +7,7 @@ public class demo {
 		String name = "Shankar";
 		int rollNum = 101;
 		System.out.println(name + " " + rollNum);
+		System.out.println("Test");
 	}
 
 }
