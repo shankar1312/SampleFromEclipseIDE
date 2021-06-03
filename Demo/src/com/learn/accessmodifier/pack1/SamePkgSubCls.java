@@ -5,6 +5,8 @@ public class SamePkgSubCls extends SamePkgSameCls{
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//using inheritance concept
+		
 		SamePkgSubCls obj = new SamePkgSubCls();
 		
 		System.out.println(obj.publicVariable);
