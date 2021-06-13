@@ -11,17 +11,14 @@ public class AnotherPkg {
 		System.out.println(obj.publicVariable);
 		obj.publicMethod();
 		
-		System.out.println(obj.defaultVariable);
-		obj.defaultMethod();
+		//System.out.println(obj.defaultVariable);
+		//obj.defaultMethod();
 		
-		System.out.println(obj.privateVariable);
-		obj.privateMethod();
+		//System.out.println(obj.privateVariable);
+		//obj.privateMethod();
 		
-		System.out.println(obj.protectedVariable);
-		obj.protectedMethod();
-		
-		
-		
+		//System.out.println(obj.protectedVariable);
+		//obj.protectedMethod();		
 	}
 
 }

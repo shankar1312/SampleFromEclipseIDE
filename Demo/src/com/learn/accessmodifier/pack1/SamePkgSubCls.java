@@ -15,8 +15,8 @@ public class SamePkgSubCls extends SamePkgSameCls{
 		System.out.println(obj.defaultVariable);
 		obj.defaultMethod();
 		
-		System.out.println(obj.privateVariable);
-		obj.privateMethod();
+		//System.out.println(obj.privateVariable);
+		//obj.privateMethod();
 		
 		System.out.println(obj.protectedVariable);
 		obj.protectedMethod();

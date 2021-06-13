@@ -39,9 +39,9 @@ public class AboutString {
 		System.out.println("Index of given letter or word : " + str.indexOf("of")); 
 		
 		StringBuilder str1 = new StringBuilder();
-		
+
 		System.out.println("Reverse the string : " + str1.reverse());
-		System.out.println("Append the string : " + );
+		System.out.println("Append the string : " + str1.append("IDIOT"));
 		
 		//String concatenation
 		String firstName = "Shankar";
