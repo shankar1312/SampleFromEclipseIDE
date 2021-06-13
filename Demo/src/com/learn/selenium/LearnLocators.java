@@ -24,16 +24,18 @@ public class LearnLocators {
 		driver.get("https://www.irctc.co.in/nget/profile/user-registration");
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		
-		By.id(null)
-		By.name(null)
-		By.className(null)
-		By.tagName(null)
-	
-		By.linkText(null)
-		By.partialLinkText(null)
-		
-		By.cssSelector(null)
-		By.xpath(null)
+		/*
+		 * By.id(null) 
+		 * By.name(null) 
+		 * By.className(null) 
+		 * By.tagName(null)
+		 * 
+		 * By.linkText(null)
+		 * By.partialLinkText(null)
+		 * 
+		 * By.cssSelector(null) 
+		 * By.xpath(null)
+		 */
 		
 		
 		driver.findElement(By.xpath("(//button[@type='submit'])[1]")).click();
